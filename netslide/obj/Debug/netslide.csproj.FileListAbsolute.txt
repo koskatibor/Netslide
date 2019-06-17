@@ -1,0 +1,30 @@
+C:\mestint\1_beadandoCS\netslide\netslide\bin\Debug\netslide.exe.config
+C:\mestint\1_beadandoCS\netslide\netslide\bin\Debug\netslide.exe
+C:\mestint\1_beadandoCS\netslide\netslide\bin\Debug\netslide.pdb
+C:\mestint\1_beadandoCS\netslide\netslide\obj\Debug\netslide.csprojAssemblyReference.cache
+C:\mestint\1_beadandoCS\netslide\netslide\obj\Debug\netslide.Form1.resources
+C:\mestint\1_beadandoCS\netslide\netslide\obj\Debug\netslide.Properties.Resources.resources
+C:\mestint\1_beadandoCS\netslide\netslide\obj\Debug\netslide.csproj.GenerateResource.cache
+C:\mestint\1_beadandoCS\netslide\netslide\obj\Debug\netslide.csproj.CoreCompileInputs.cache
+C:\mestint\1_beadandoCS\netslide\netslide\obj\Debug\netslide.exe
+C:\mestint\1_beadandoCS\netslide\netslide\obj\Debug\netslide.pdb
+C:\Users\Koska Tibor\Documents\UNI_AI\netslide\netslide\bin\Debug\netslide.exe.config
+C:\Users\Koska Tibor\Documents\UNI_AI\netslide\netslide\bin\Debug\netslide.exe
+C:\Users\Koska Tibor\Documents\UNI_AI\netslide\netslide\bin\Debug\netslide.pdb
+C:\Users\Koska Tibor\Documents\UNI_AI\netslide\netslide\obj\Debug\netslide.csprojAssemblyReference.cache
+C:\Users\Koska Tibor\Documents\UNI_AI\netslide\netslide\obj\Debug\netslide.Form1.resources
+C:\Users\Koska Tibor\Documents\UNI_AI\netslide\netslide\obj\Debug\netslide.Properties.Resources.resources
+C:\Users\Koska Tibor\Documents\UNI_AI\netslide\netslide\obj\Debug\netslide.csproj.GenerateResource.cache
+C:\Users\Koska Tibor\Documents\UNI_AI\netslide\netslide\obj\Debug\netslide.csproj.CoreCompileInputs.cache
+C:\Users\Koska Tibor\Documents\UNI_AI\netslide\netslide\obj\Debug\netslide.exe
+C:\Users\Koska Tibor\Documents\UNI_AI\netslide\netslide\obj\Debug\netslide.pdb
+D:\UNI_AI\netslide\netslide\bin\Debug\netslide.exe.config
+D:\UNI_AI\netslide\netslide\bin\Debug\netslide.exe
+D:\UNI_AI\netslide\netslide\bin\Debug\netslide.pdb
+D:\UNI_AI\netslide\netslide\obj\Debug\netslide.csprojAssemblyReference.cache
+D:\UNI_AI\netslide\netslide\obj\Debug\netslide.Form1.resources
+D:\UNI_AI\netslide\netslide\obj\Debug\netslide.Properties.Resources.resources
+D:\UNI_AI\netslide\netslide\obj\Debug\netslide.csproj.GenerateResource.cache
+D:\UNI_AI\netslide\netslide\obj\Debug\netslide.csproj.CoreCompileInputs.cache
+D:\UNI_AI\netslide\netslide\obj\Debug\netslide.exe
+D:\UNI_AI\netslide\netslide\obj\Debug\netslide.pdb
